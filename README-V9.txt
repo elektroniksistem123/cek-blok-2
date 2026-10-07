@@ -1,1 +1,0 @@
-V9: Kolom Pasar Kanan/Kiri dan nomor masing-masing dipisah pada laporan aplikasi dan Excel. Setiap item Temuan Kondisi Blok menjadi panel ringkas yang dibuka dengan menekan header. GPS offline, foto, koordinat, PT, Kebun, Afdeling, dan Blok tetap dipertahankan.
